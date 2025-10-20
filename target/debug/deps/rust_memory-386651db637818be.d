@@ -1,0 +1,5 @@
+/Users/manojseetaramgowda/projects/rust-memory/target/debug/deps/rust_memory-386651db637818be.d: src/main.rs
+
+/Users/manojseetaramgowda/projects/rust-memory/target/debug/deps/librust_memory-386651db637818be.rmeta: src/main.rs
+
+src/main.rs:
